@@ -1,11 +1,11 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+title: Rebecca Badman Typogblog
+description: A typography blog
+header_text: The Typog-Blog
+footer_text: Copyright 2020 Bex Badman
+header_feature_image: ../uploads/28da83e0-7c99-45a7-bdaa-e929596b3cf3.heic
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
