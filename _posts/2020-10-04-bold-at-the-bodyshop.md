@@ -8,4 +8,4 @@ caption: A brand who has always supported women and the environment
   industry
 comments: true
 ---
-The Body Shop was founded in 1976 by Dame Anita Roddick, beginning as a little green painted shop in Brighton.
+The Body Shop was founded in 1976 by Dame Anita Roddick, starting out as only a little green painted shop in Brighton. The idea behind this little haven of ethically sourced and natural products was to help women believe in their natural beauty, a concept which the branding of The Body Shop reflects in both typography and image.
