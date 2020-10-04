@@ -3,6 +3,9 @@ layout: post
 title: BOLD AT THE BODYSHOP
 date: 2020-10-04T18:18:54.618Z
 header_feature_image: ../uploads/body-shop-title-image.png
+caption: A brand who has always supported women and the environment
+  simultaneously, through branding, typography and their attitude to the beauty
+  industry
 comments: true
 ---
-BODY
+The Body Shop was founded in 1976 by Dame Anita Roddick, beginning as a little green painted shop in Brighton.
