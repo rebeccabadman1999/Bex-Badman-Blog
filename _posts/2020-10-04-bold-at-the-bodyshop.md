@@ -16,11 +16,11 @@ In the words of Roddick herself;
 
 This statement is emulated in the way that the brand has been depicted. 
 
-Since 1976, The Body Shop has had three logo 'makeovers' as it transitioned from a small high street shop to a more commercialised company. These transformations have changed both the design and the type face of the logo drastically over the years, as the brand began to mirror the ideas that it projects. 
+Since 1976, The Body Shop has had three logo 'makeovers' as it transitioned from a small high street shop to a more commercialised company. These transformations have changed both the design and the typeface for the logo drastically over the years. The brand both mirrored the ideas that it projected, as well as a change in the times. 
 
 ![https://1000logos.net/the-body-shop-logo/](../uploads/the-body-shop-logo-history.jpg)
 
-In particular, the attitude that the brand has to the way that women and girls 'should look' is represented by the more modern typeface that was used from 2004. Anita Roddick believed that beauty was 'a persons source of joy, comfort and self esteem' \[1^] and therefore expected her products to be used in a way that reflected a 'daily ritual of self love' instead of false promises of anti-ageing and abnormal slimming; which the industry pedalled in the 1970s. 
+In particular, the attitude that the brand has to the way that women and girls 'should look' is represented by the more modern typeface that was used in 2004. Anita Roddick believed that beauty was 'a persons source of joy, comfort and self esteem' \[1^] and therefore expected her products to be used in a way that reflected a 'daily ritual of self love' instead of false promises of anti-ageing and abnormal slimming; which the industry pedalled in the 1970s. 
 
 The typeface used in 2004 is very low contrast with regulated cap heights and entirely capitalised. This simplistic choice of font represents the inclusivity that the brand wants the customer to feel, while it could also be interpreted as the female body-- the common denominator for beauty on the outside while it is also the courier for beauty on the inside. The brand was designed to empower women and girls, therefore the typeface representing this is a powerful statement. 
 
