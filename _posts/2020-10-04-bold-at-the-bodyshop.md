@@ -26,6 +26,8 @@ The typeface used in 2004 is very low contrast with regulated cap heights and en
 
 Origionally, the body shop used a typeface that was that was ornate, with serifs and had 3D elements to it that formed a bold shadow effect. This could have been to ensure that the shops name really stood out while complying with the standard "boutique" effect that would have enticed the clientele at the time. The nature of the typeface is particularly organic, such like the brand itself-- considering that The Body Shop was one of the first cosmetic brands to prohibit testing on animals and introduce FairTrade to the beauty industry \[2^]. Contrasting to the more modern versions of the logo of 1998 and 2004 which had a more digital feeling, in keeping with the modern day and introduction of technology over the years. 
 
+
+
 \[1^] https://www.thebodyshop.com/en-gb/about-us/our-story/a/a00002
 
 \[2^] <https://www.theguardian.com/fashion/fashion-blog/2011/nov/21/brief-history-of-body-shop>
