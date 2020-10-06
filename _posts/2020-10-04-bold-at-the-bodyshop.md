@@ -24,12 +24,6 @@ In particular, the attitude that the brand has to the way that women and girls '
 
 The typeface used in 2004 is very low contrast with regulated cap heights and entirely capitalised. This simplistic choice of font represents the inclusivity that the brand wants the customer to feel, while it could also be interpreted as the female body-- the common denominator for beauty on the outside while it is also the courier for beauty on the inside. The brand was designed to empower women and girls, therefore the typeface representing this is a powerful statement. 
 
-Origionally, 
-
-
-
-
-
-
+Origionally, the body shop used a typeface that was that was ornate, with serifs and had 3D elements to it that formed a bold shadow effect. This could have been to ensure that the shops name really stood out while complying with the standard "boutique" effect that would have enticed the clientele at the time. The nature of the typeface is particularly organic, such like the brand itself-- considering that The Body Shop was one of the first cosmetic brands to prohibit testing on animals and introduce FairTrade to the beauty industry.
 
 \[1^] https://www.thebodyshop.com/en-gb/about-us/our-story/a/a00002
