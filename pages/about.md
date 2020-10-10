@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: The Little Ladies Blog
+subtitle: "A blog focussing on typography in a feminist world "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/untitled-2.png
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
 
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
