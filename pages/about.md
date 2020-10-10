@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Little Ladies Blog
+title: About
 subtitle: "A blog focussing on typography in a feminist world "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
