@@ -10,12 +10,12 @@ tags: null
 description: null
 show: true
 ---
-In a world full of bold statements, new messages and concepts, the influence of text and what it symbolises has never been more prominent in this time of change and acceptance. From the suffragette's banner to LGBTQ+ support posters, in the last decade we have seen how the use of typography can help communities in their cause as well as instill belief and hope. 
+In a world full of bold statements, new messages and concepts, the influence of text and what it symbolises has never been more prominent than in this time of change and acceptance. From the suffragette's banner to LGBTQ+ support posters, in the last decade we have seen how the use of typography can help communities in their cause as well as instill belief and hope in others. 
 
-![Image from: https://unireadinghistory.com/2018/02/08/votes-for-women/](../uploads/votes-100-3-banner-image.jpg)
+![Image from: https://unireadinghistory.com/2018/02/08/votes-for-women/](../uploads/votes-100-3-banner-image.jpg "The Suffragette banner")
+
+I have always had a passion for films, novels, brands and more, who have a strong sense of female empowerment. Whether that was watching my favourite marvel heros ''beat the bad guys'' with impeccable sass, or reading the story of a highly complex female character such as in 'Gone Girl'. I feel drawn to 
 
 
-
-This file is saved inside the *pages* folder and is saved as *about.md* . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
 
 You should use **markdown**to write this text and this will automatically be converted to `HTML`.
