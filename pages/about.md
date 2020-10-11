@@ -14,6 +14,6 @@ In a world full of bold statements, new messages and concepts, the influence of 
 
 ![Image from: https://unireadinghistory.com/2018/02/08/votes-for-women/](../uploads/votes-100-3-banner-image.jpg "Suffragette Banner")
 
-I decided that my blog would contain the running theme of women behind the scenes of typography; therefore incorporating my interests and the topical theme of today: feminism. 
+I decided that my blog would contain the running theme of women behind the scenes of typography; therefore incorporating my interests and the topical theme of today: feminism. Throughout this blog i will explore areas of female repression in the film industries, popular brands and iconic titles as stated through their use of typography. 
 
 You should use **markdown**to write this text and this will automatically be converted to `HTML`.
