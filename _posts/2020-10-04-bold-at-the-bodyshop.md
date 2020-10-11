@@ -2,7 +2,7 @@
 layout: post
 title: BOLD AT THE BODYSHOP
 date: 2020-10-04T18:18:54.618Z
-header_feature_image: ../uploads/body-shop-title-image.png
+header_feature_image: ../uploads/untitled-2-copy.png
 caption: A brand who has always supported women and the environment
   simultaneously, through branding, typography and their attitude to the beauty
   industry
