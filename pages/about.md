@@ -24,4 +24,4 @@ The idea behind my logo was to incorporate the letters in my blog's title, simpl
 
 ![](../uploads/favicon.png "My Blog's Logo")
 
-The name of the blog is not so much a play on words: "The Little Ladies Blog", but more along the theme of my interpretation.
+The name of the blog is not so much a play on words: "The Little Ladies Blog", but more along the theme of my interpretation. Which is why the pastiche is so effective as an interpretation of myself reading a book-- a fitting addition.
