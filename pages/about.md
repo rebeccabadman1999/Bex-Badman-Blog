@@ -18,6 +18,6 @@ I have always had a passion for films, novels, brands etc, who have a strong sen
 
 ![Image from: https://unireadinghistory.com/2018/02/08/votes-for-women/](../uploads/votes-100-3-banner-image.jpg "Suffragette Banner")
 
-I decided that my blog would contain the running theme of women behind the scenes of typography; therefore incorporating my interests and the topical theme of today: feminism. Throughout this blog i will be exploring the way that text conveys ideas such as female repression, beauty, inclusivity and so on-- with the underlying theme of femininity. 
+I decided that my blog would contain the running theme of women behind the scenes of typography; therefore incorporating my interests and the topical theme of today: feminism. Throughout this blog i will be exploring the way that text conveys ideas such as female repression, beauty, inclusivity and so on-- with the underlying theme of femininity. A picture (or in this case; typography), really does say a thousand words. 
 
 ## My Logo
