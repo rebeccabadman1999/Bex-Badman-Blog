@@ -20,6 +20,6 @@ I decided that my blog would contain the running theme of women behind the scene
 
 ## My Logo
 
-The idea behind my logo was to incorporate the letters in my blog's title, simplistic yet i feel that it catches your eye and is therefore an effective way to encourage readers. The 'B' is a much more free-hand character, which gives the logo authenticity, and accetuates the fact that the blog is written from my perception. The little pastiche that is also placed within the logo was another indicator of this, while being both a personal touch and a drawing of myself. The impression that i wanted to give was that of my blog in the form of a typographical diary, hence the topics that i use reflect this as they are brands i use, content i watch and/or read. 
+The idea behind my logo was to incorporate the letters in my blog's title, simplistic yet i feel that it catches your eye and is therefore an effective way to encourage readers. The 'B' is a much more free-hand character, which gives the logo authenticity, and accetuates the fact that the blog is written from my perception. The little pastiche that is also placed within the logo was another indicator of this, while being both a personal touch and a drawing of myself. The impression that i wanted to give was that of my blog in the form of a typographical diary, hence the topics that i write about are brands i use, content i watch and/or read. 
 
 ![](../uploads/favicon.png "My Blog's Logo")
