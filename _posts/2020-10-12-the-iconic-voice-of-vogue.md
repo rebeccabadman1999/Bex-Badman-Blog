@@ -20,4 +20,4 @@ The word 'Vogue' is defined as "the prevailing fashion or style at a particular 
 
 ![](../uploads/00-promo-image-vogue-logo.jpg)
 
-The choice of typeface, though elegant is very gender neutral with its lack of feminine flair. And depending on the theme of the issue, the colour choice is either related to this or reverts to its default Bold black or white lettering which stands out against the cover photo of the magazine. These choices represent the changes in society and the evolution of fashion, however they do not demonstrate the fact that up until 2017, Vogue only employed
+The choice of typeface, though elegant is very gender neutral with its lack of feminine flair. And depending on the theme of the issue, the colour choice is either related to this or reverts to its default Bold black or white lettering which stands out against the cover photo of the magazine. These choices represent the changes in society and the evolution of fashion, however they do not demonstrate the fact that up until 2017, Vogue had only employed female editors.
