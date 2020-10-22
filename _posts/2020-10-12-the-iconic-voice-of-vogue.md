@@ -12,4 +12,4 @@ As a fashion and beauty orientated magazine, often referred to as "the fashion b
 
 ![](../uploads/vogue-images.png "Vogue cover photos in recent years")
 
-When Vogue was first published in the 1890s, the logos were hand lettered for every issue by an illustrator so as to represent the issue that was published.
+When Vogue was first published in the 1890s, the logos were hand lettered for every issue by an illustrator so as to represent the themes of issue that was published. A similar idea was used when Conde Nast took over the magazine in the early 1900's, where each cover logo was more colourful and theatrical yet still personal to the issue-- this represented the Art Deco/ Jazz age.
