@@ -19,3 +19,5 @@ This choice of typeface resonates with Vogue's iconic status, not only because o
 The word 'Vogue' is defined as "the prevailing fashion or style at a particular time" which gives the impression that as the magazine shares this name, they are always very current and for want of a better word; Vogue.
 
 ![](../uploads/00-promo-image-vogue-logo.jpg)
+
+The choice of typeface, though elegant is very gender neutral with its lack of feminine flair. Depending on the theme of the issue, the colour choice is either related to this or reverts to its default Bold black or white lettering which stands out against the cover photo of the magazine.
