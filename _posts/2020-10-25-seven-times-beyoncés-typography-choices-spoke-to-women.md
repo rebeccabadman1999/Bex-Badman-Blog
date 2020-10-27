@@ -9,4 +9,6 @@ Beyoncé has always used powerful imagery to convey her strong feminist, cultura
 
 To demonstrate some of Queen Bey's sassy, empowered flare, i turned to her discography and the way that she uses the style of her album covers to speak to the crowds:
 
-In 2003, Bey's debut album following the disbanding of Destiny's child, Dangerously in Love was the first album that she released. The album cover had a particularly naughties feel with its digital graffics; a hint towards the turning of the century.
+In 2003, Bey's debut album following the disbanding of Destiny's child, Dangerously in Love was the first album that she released. The album cover had a particularly naughties feel with its digital graffics; a hint towards the turning of the century. 
+
+![](../uploads/dangerously-in-love.png)
