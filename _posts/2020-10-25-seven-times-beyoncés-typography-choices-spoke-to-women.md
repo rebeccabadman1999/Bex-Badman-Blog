@@ -18,3 +18,5 @@ The choice of font resembles Churchward Design font by BluHead studio, it is a c
 Her second, third and fourth albums, which ironically the fourth was named '4', were defined by their much more elaborate typefaces.
 
 ![](../uploads/bey.png)
+
+Each of these choices of font marked both Beyoncé's class, her maturity and her sense of female empowerment. This for me was highlighted by the use of Serif fonts, as they emphasise the sense of quality as well as feminine flair that Bey exudes. Another common font that uses serifs is Times New Roman, a font which has stood the test of time and is arguably so well established that we use it by default. The choices that Bey made to encorporate a serif font in her marketing strategy showed the way that she wanted to be taken seriously as a prominent female figure in this industry-- she then went on to conquer the fashion world also.
