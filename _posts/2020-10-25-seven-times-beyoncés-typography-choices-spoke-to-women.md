@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seven times Beyoncé's Typography choices spoke to women
+title: Six times  Beyoncé's Typography choices spoke to women
 date: 2020-10-25T12:37:51.603Z
 header_feature_image: ../uploads/beyonce-cover-photo.png
 comments: true
@@ -20,3 +20,7 @@ Her second, third and fourth albums, which ironically the fourth was named '4', 
 ![](../uploads/bey.png)
 
 Each of these choices of font marked both Beyoncé's class, her maturity and her sense of female empowerment. This for me was highlighted by the use of Serif fonts, as they emphasise the sense of quality as well as feminine flair that Bey exudes. Times New Roman has a similar effect with its serif-style, it stands out as a font which has withstood the test of time and is arguably so well established that we use it by default. The choices that Bey made to encorporate a serif font in her marketing strategy showed the way that she wanted to be taken seriously as a prominent female figure in this industry-- she then went on to conquer the fashion world as well. But her choices also reflect her cultural struggles and the way in which she represents one of the most iconic black women-- a beacon of hope, with a plaform that she uses as a strong voice.
+
+![](../uploads/bey-2.png)
+
+The final two album covers that i chose to focus on were Beyoncé's more recent releases; 'Beyoncé' and 'Lemonade'. These covers have evolved into a much more modern example of Beyoncé's typographic voice; the fonts are low contrast with a sans-serif effect and are very different to the vibrance of her previous covers.    Instead, they have a new sense of power in their lack of elaboration due to the fact that they are extremely minimalistic. Personally this spoke to me in the way that Bey decided to renounce her dependancy on her male counter part Jay-z. Henceforth, the choice of a simplistic but bold typeface really told the audience that she was standing out and standing proud in the face of heartbreak-- a message that most women at home were inspired by. As described
