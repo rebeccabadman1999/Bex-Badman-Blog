@@ -12,3 +12,5 @@ To demonstrate some of Queen Bey's sassy, empowered flare, i turned to her disco
 In 2003, Bey's debut album following the disbanding of Destiny's child, Dangerously in Love was the first album that she released. The album cover had a particularly naughties feel with its digital graffics; a hint towards the turning of the century. 
 
 ![](../uploads/dangerously-in-love.png)
+
+The choice of font resembles Churchward Design font by BluHead studio, it is a cartoon like font which could be seen as a very youthful, fun choice. In 2003, Beyonce at 22 would have been in her own roaring 20s, therefore the choice of font embraced her girlish charm but also her transition into being a woman. To all of the young girls who adored Bey at the time, the text appealed to both a young audience who admired her, while their older counter parts enjoyed the vibrance and energy that this album incited.
