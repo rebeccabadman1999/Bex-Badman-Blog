@@ -8,3 +8,5 @@ comments: true
 Beyoncé has always used powerful imagery to convey her strong feminist, cultural messages. Having recently released her Netflix documentary 'Mrs. Carter's cultural evolution aka "Homecoming: A Film by Beyoncé', she is no stranger to using the art of typography to engage an audience and create a powerful feminist movement- for women alike. 
 
 To demonstrate some of Queen Bey's sassy, empowered flare, i turned to her discography and the way that she uses the style of her album covers to speak to the crowds:
+
+In 2003, Bey's debut album following the disbanding of Destiny's child, Dangerously in Love was the first album that she released. The album cover had a particularly naughties feel with its digital graffics; a hint towards the turning of the century.
