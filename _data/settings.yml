@@ -12,3 +12,4 @@ upzoom: true
 items:
   - name: About Bex Badman
     siteurl: /aboutme
+    tab: true
