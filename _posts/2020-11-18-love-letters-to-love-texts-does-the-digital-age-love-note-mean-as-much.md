@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Love letters to Love texts: does the digital age love note mean as much? "
+title: "From letters to texts: does the digital age love note mean as much as
+  its earlier counterpart? "
 date: 2020-11-18T14:32:19.965Z
 header_feature_image: ../uploads/love-letter-cover-photo.png
 comments: true
