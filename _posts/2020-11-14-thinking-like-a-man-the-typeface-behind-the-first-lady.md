@@ -15,7 +15,7 @@ Michelle's biography "Becoming" was published in 2018, a year after her final sp
 
 As referred to previously, the use of white, 'all caps' text is a key statement as it is a direct contrast to Michelle's skin tone. The irony of the colour choice is in the way that it belittles the white patriarchy in America; for instance Trump. But is also a demonstration of her power, defiance and feminist attitudes, in particular reference to Black women. As the only African American first lady, Michelle calls out to all women as a beacon of hope but especially to communities who have been penalised, unjustifiably, for their race. The use of this oxymoron has extremely significant connotations and portrays the significance of Michelle's story. 
 
-Her choice of font is also an interesting one, as she opted out of any femininity when choosing a typeface for her bibliography. As times have changed, the idea of equality resonates with a typography choice such as this. The gender neutral typeface emphasises the way in which there should be no differentiation between the power of a woman or man; Michelle was an ambitious young woman who 
+Her choice of font is also an interesting one, as she opted out of any femininity when choosing a typeface for her bibliography. As times have changed, the idea of equality resonates with a typography choice such as this. The gender neutral typeface emphasises the way in which there should be no differentiation between the power of a woman or man; Michelle was an ambitious young woman who rose from "nothing", to be placed in gifted programs and subsequentially graduating from Harvard Law school. 
 
 
 
