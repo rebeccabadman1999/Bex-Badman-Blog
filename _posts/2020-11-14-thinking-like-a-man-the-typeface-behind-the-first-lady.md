@@ -13,22 +13,6 @@ Michelle's biography "Becoming" was published in 2018, a year after her final sp
 
 ![](../uploads/michelle-obama-book.jpg)
 
-As referred to previously, the use of white, 'all caps' text is a key statement as it is a direct contrast to 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+As referred to previously, the use of white, 'all caps' text is a key statement as it is a direct contrast to Michelle's skin tone. The irony of the colour choice is in the way that it belittles the white patriarchy in America; for instance Trump. But is also a demonstration of her power, defiance and feminist attitudes, in particular reference to Black women. As the FIRST African American first lady, Michelle calls out to all women as a beacon of hope but especially to communities who have been penalised, unjustifiably, for their race. 
 
 https://www.biography.com/us-first-lady/michelle-obama
