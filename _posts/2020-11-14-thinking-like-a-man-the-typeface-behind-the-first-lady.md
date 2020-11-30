@@ -11,7 +11,9 @@ Throughout the years Michelle Obama has stood for many causes, both before, duri
 
 Michelle's biography "Becoming" was published in 2018, a year after her final speech as First Lady. However i believe that the whole image of this book represents more than just the life of Michelle Obama, and is infact a representation of feminism, equality and humble ambition. 
 
+![](../uploads/michelle-obama-book.jpg)
 
+As referred to previously, the use of white, 'all caps' text is a key statement as it is a direct contrast to 
 
 
 
