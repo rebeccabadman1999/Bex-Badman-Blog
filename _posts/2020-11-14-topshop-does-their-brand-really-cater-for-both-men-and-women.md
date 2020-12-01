@@ -11,4 +11,6 @@ Topshop was initially set out as an extension of the Peter Robinsons' store, and
 
 I would say that as brands go, Top shop has always been an extremely relateable brand who manage to cater for all; including their men and women's departments while recently including more vintage sections in order to cover a wide customer profile. In some respects, Topshop has the ability to transcend most social restrictions as it has both 'High end' elements as well as 'High street'.
 
+The brand itself has attempted to ascertain its image as both gender neutral and socially neutral due to its bold, yet simplistic logo. 
+
 https://www.glamobserver.com/topshop-story-and-business/
