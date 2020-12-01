@@ -11,6 +11,6 @@ Topshop was initially set out as an extension of the Peter Robinsons' store, and
 
 I would say that as brands go, Top shop has always been an extremely relateable brand who manage to cater for all; including their men and women's departments while recently including more vintage sections in order to cover a wide customer profile. In some respects, Topshop has the ability to transcend most social restrictions as it has both 'High end' elements as well as 'High street'.
 
-The brand itself has attempted to ascertain its image as both gender neutral and socially neutral due to its bold, yet simplistic logo. 
+The brand itself has attempted to ascertain its image as both gender neutral and socially neutral due to its bold, yet simplistic logo. Both TOPSHOP and TOPMAN share characteristics in the way that they are both portrayed in 'All Caps', deciding to have little differentiation between them apart from the actual name. However, despite their high end intentions within the store, through fashion choices and trends, they uphold the idea that Topshop is 'for everyone'. The choice of a neutral typeface eliminates its competition with other high end brands who choose to adopt serifs or character in their typefaces so as to give the impression of femininity for example, or class. 
 
 https://www.glamobserver.com/topshop-story-and-business/
