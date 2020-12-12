@@ -16,3 +16,5 @@ The brand itself has attempted to ascertain its image as both gender neutral and
 Throughout the years, Topshop has incorporated many famous icons so as to boost their brand, their use of models such as Kate Moss and Gigi Hadid are key examples of the way that Topshop's womens department desires to be fashionably on trend but does this drag away from the brands core values? The initial feeling of security when faced with the big, white, welcoming letters at the front of Topshop's stores is counteracted by the use of faces such as these women who do not allow for inclusivity in their image as powerful, yet white, size 4 women. 
 
 https://www.glamobserver.com/topshop-story-and-business/
+
+http://elliedigitalpublishing.blogspot.com/2016/02/topshop-website-design.html
